@@ -4,7 +4,7 @@
  *
  * Aquest script imprimeix un missatge per pantalla.
  *
- * @author [Tu Nombre]
+ * @author hernan
  * @version 1.0
  * @package DAW-php-app
  */
